@@ -1,6 +1,9 @@
-<a href="https://git.io/typing-svg" style="display: block; text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=C600E6&center=true&vCenter=true&repeat=false&random=false&width=427&height=54&lines=Hi+%F0%9F%91%8B%2C+I'm+Nicolas+Casta%C3%B1eda" alt="Typing SVG" style="width: 100%; max-width: 100%;" />
-</a>
+<div style="display: flex; justify-content: center;">
+    <a href="https://git.io/typing-svg" style="display: inline-block;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=C600E6&center=true&vCenter=true&repeat=false&random=false&width=427&height=54&lines=Hi+%F0%9F%91%8B%2C+I'm+Nicolas+Casta%C3%B1eda" alt="Typing SVG" style="width: 100%; max-width: 100%;" />
+    </a>
+</div>
+
 
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
