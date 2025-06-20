@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikiclan16&label=Profile%20views&color=0e75b6&style=flat" alt="nikiclan16" /> </p>
 
-- 🌱 I’m currently learning **NodeJs & ExpressJs**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-web-necs.vercel.app/](https://portafolio-web-necs.vercel.app/)
 
